@@ -1,7 +1,7 @@
 {
-  "v": "1.0.4",
-  "b": 1,
+  "v": "1.0.3",
+  "b": 17,
   "u": "https://github.com/ursmilan142/harkatta/releases/download/v1.0.3/app-release.apk",
-  "n": "- Test update\n- New features\n- Bug fixes\n- Always Trust Panda 🐼",
+  "n": "- Version 1.0.3 Release\n- Self-updating system added 🚀\n- UI improvements\n- Bug fixes\n- Always Trust Panda Update System 🐼",
   "force": false
 }
