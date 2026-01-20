@@ -1,8 +1,9 @@
 {
   "v": "1.0.5",
   "b": 18,
-  "u": "https://github.com/ursmilan142/harkatta/releases/download/v1.0.4/app-release.apk",
+  "u": "https://github.com/ursmilan142/harkatta/releases/download/v1.0.5/app-release.apk",
   "n": "✅ Fixed update system\n✅ APK saves to Downloads folder\n✅ Manual install required\n✅ Always Trust Panda 🐼",
   "force": false
 }
+
 
